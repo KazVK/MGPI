@@ -1,0 +1,10 @@
+c:\users\student-321\source\repos\WinPrint\WinPrint\bin\Debug\WinPrint.exe.config
+c:\users\student-321\source\repos\WinPrint\WinPrint\bin\Debug\WinPrint.exe
+c:\users\student-321\source\repos\WinPrint\WinPrint\bin\Debug\WinPrint.pdb
+c:\users\student-321\source\repos\WinPrint\WinPrint\obj\Debug\WinPrint.csprojResolveAssemblyReference.cache
+c:\users\student-321\source\repos\WinPrint\WinPrint\obj\Debug\WinPrint.Form1.resources
+c:\users\student-321\source\repos\WinPrint\WinPrint\obj\Debug\WinPrint.Properties.Resources.resources
+c:\users\student-321\source\repos\WinPrint\WinPrint\obj\Debug\WinPrint.csproj.GenerateResource.Cache
+c:\users\student-321\source\repos\WinPrint\WinPrint\obj\Debug\WinPrint.csproj.CoreCompileInputs.cache
+c:\users\student-321\source\repos\WinPrint\WinPrint\obj\Debug\WinPrint.exe
+c:\users\student-321\source\repos\WinPrint\WinPrint\obj\Debug\WinPrint.pdb
